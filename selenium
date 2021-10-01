@@ -1,1 +1,2 @@
-Trick
+<b>Zoom pape</b><br>
+driver.execute_script("document.body.style.zoom='zoom %'")
